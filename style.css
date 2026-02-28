@@ -849,7 +849,7 @@ footer {
   }
 
   .nav-links {
-    display: inline-flex;
+    display: none;
   }
 
   #hero {
